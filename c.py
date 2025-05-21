@@ -2,8 +2,8 @@ import smtplib
 from email.message import EmailMessage
 import ssl
 
-EMAIL_ADDRESS = "adii.utsav@gmail.com"
-EMAIL_PASSWORD = "johfxayebkbrcgxd"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 EMAIL_SUBJECT = "Cybersecurity Internship Application – Aditya Kumar"
 
