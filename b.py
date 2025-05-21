@@ -3,8 +3,8 @@ from email.message import EmailMessage
 import ssl
 
 # Your email credentials
-EMAIL_ADDRESS = "adii.utsav@gmail.com"
-EMAIL_PASSWORD = "johfxayebkbrcgxd"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 EMAIL_SUBJECT = "Cybersecurity Internship Application – Aditya Kumar"
 
@@ -23,8 +23,8 @@ Thank you for your time and consideration.
 
 Sincerely,
 Aditya Kumar
-Mobile: +91 7079487671
-Email: adii.utsav@gmail.com
+Mobile: 
+Email: 
 LinkedIn: linkedin.com/in/aditya-kumar-3241b6286
 """
 
