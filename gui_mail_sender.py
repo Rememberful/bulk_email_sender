@@ -12,8 +12,8 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 
 # Email credentials
-EMAIL_ADDRESS = "adii.utsav@gmail.com"
-EMAIL_PASSWORD = "johfxayebkbrcgxd"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 ATTACHMENT_PATH = r"C:\Users\Aditya\OneDrive\Desktop\AdityaKumar_Cybersecurity_.pdf"
 EMAIL_SUBJECT = "Cybersecurity Internship Application – Aditya Kumar"
 
@@ -33,8 +33,8 @@ Thank you for your time and consideration.
 
 Sincerely,
 Aditya Kumar  
-Mobile: +91 7079487671  
-Email: adii.utsav@gmail.com  
+Mobile: 
+Email:  
 LinkedIn: linkedin.com/in/aditya-kumar-3241b6286
 """
 
